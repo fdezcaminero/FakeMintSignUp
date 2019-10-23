@@ -2,3 +2,14 @@
     float: right;
     margin-top: none;
 }
+
+#row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#column {
+    float: left;
+    padding: 10px;
+}
