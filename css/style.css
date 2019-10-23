@@ -3,13 +3,26 @@
     margin-top: none;
 }
 
-#row:after {
+.row:after {
     content: "";
     display: table;
     clear: both;
 }
 
-#column {
+.column {
     float: left;
     padding: 10px;
+}
+
+.no-top-margin {
+    margin-top: 0;
+}
+
+#signin-btn {
+    
+    height: 30px;
+    background: #0077C5;
+    color:white;
+    border-radius: 5%;
+    border: 1px solid #4c4c4c;
 }
