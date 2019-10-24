@@ -18,6 +18,17 @@
     margin-top: 0;
 }
 
+.container-logos div {
+    display: inline-block;
+}
+
+.main-container {
+    width: 400px;
+    margin: 10px auto;
+    border: 1px gray solid;
+    border-radius: 15px;    
+}
+
 #signin-btn {
     
     height: 30px;
