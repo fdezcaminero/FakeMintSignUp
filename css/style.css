@@ -24,9 +24,8 @@
 
 .main-container {
     width: 400px;
-    margin: 10px auto;
-    border: 1px gray solid;
-    border-radius: 15px;    
+    margin: 10px auto; 
+    padding: 80px;
 }
 
 #signin-btn {
@@ -90,4 +89,37 @@
     height: 19px;
     background-position: -26px -57px;
     display: inline-block;
+}
+
+.borded-container {
+    border: 1px gray solid;
+    margin: auto;
+}
+
+.top-part1 {
+    width: 114px;
+    margin: 0 auto;
+}
+
+body {
+    background-color:lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-logos {
+    width: 315px;
+    margin: 0 auto;
+}
+
+.topsection {
+    text-align: center;
+}
+
+.hotbox {
+    text-align: center;
+}
+
+.footerclass {
+    text-align: center;
+    margin: auto; /*not wroking*/
 }
