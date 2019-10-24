@@ -16,6 +16,7 @@
 
 .no-top-margin {
     margin-top: 0;
+    font-size: 12px;
 }
 
 .container-logos div {
@@ -92,23 +93,26 @@
 }
 
 .borded-container {
-    border: 1px gray solid;
+    border: 1px lightgray solid;
     margin: auto;
+    background: white;
 }
 
 .top-part1 {
     width: 114px;
     margin: 0 auto;
+    margin-bottom: 15px;
 }
 
 body {
-    background-color:lightgray;
+    background-color: #ECEEF1;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .container-logos {
     width: 315px;
     margin: 0 auto;
+    margin-bottom: 15px;
 }
 
 .topsection {
@@ -122,4 +126,62 @@ body {
 .footerclass {
     text-align: center;
     margin: auto; /*not wroking*/
+}
+
+.footerclass p {
+    margin-top: 0;
+}
+
+.footerclass span {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+footer {
+    font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial sans-serif;
+    font-size: 12px;
+}
+
+form {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.f-input {
+    width: 320px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    height: 30px;
+}
+
+.f-input-nop {
+    width: 320px;
+    margin-top: 15px;
+    height: 30px;
+}
+
+form button {
+    width: 324px;
+    background-color: blue;
+    color: white;
+}
+
+h2{
+    font-weight: normal;
+    color: gray;
+}
+
+.topsection p {
+    margin:0;
+}
+
+.topsection a {
+    font-size: 12px;
+}
+
+form p {
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 30px;
+
 }
