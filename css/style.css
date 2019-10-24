@@ -1,6 +1,6 @@
 #signinbutton {
     float: right;
-    margin-top: none;
+    margin-top: 0;
 }
 
 .row:after {
@@ -25,4 +25,58 @@
     color:white;
     border-radius: 5%;
     border: 1px solid #4c4c4c;
+}
+
+.sprite {
+    background-image: url(../resources/mintlogos.png);
+    background-repeat: no-repeat;
+}
+
+#mintlogo {
+    width: 114px;
+    height: 32px;
+    background-position: 0 0;
+    display: inline-block;
+}
+
+#justmint {
+    width: 26px;
+    height: 26px;
+    background-position: -252px -55px;
+    display: inline-block;
+}
+
+#quickbooks {
+    width: 24px;
+    height: 24px;
+    background-position: -114px -56px;
+    display: inline-block;
+}
+
+#turbotax {
+    width: 23px;
+    height: 24px;
+    background-position: 0 -56px;
+    display: inline-block;
+}
+
+#minttext {
+    width: 40px;
+    height: 16px;
+    background-position: -280px -60px;
+    display: inline-block;
+}
+
+#quickbookstext {
+    width: 101px;
+    height: 22px;
+    background-position: -142px -57px;
+    display: inline-block;
+}
+
+#turbotaxtext {
+    width: 76px;
+    height: 19px;
+    background-position: -26px -57px;
+    display: inline-block;
 }
