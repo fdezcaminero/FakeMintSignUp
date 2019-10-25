@@ -10,190 +10,190 @@
 }
 
 .column {
-	float: left;
-	padding: 10px;
+  float: left;
+  padding: 10px;
 }
 
 .no-top-margin {
-	font-size: 12px;
-	margin-top: 0;
+  font-size: 12px;
+  margin-top: 0;
 }
 
 .container-logos div {
-	display: inline-block;
+ display: inline-block;
 }
 
 .main-container {
-	margin: 10px auto;
-	padding: 80px;
-	width: 400px;
+  margin: 10px auto;
+  padding: 80px;
+  width: 400px;
 }
 
 .signin-btn {
-	background: #0077c5;
-	border: 1px solid #4c4c4c;
-	border-radius: 5%;
-	color: white;
-	height: 30px;
+  background: #0077c5;
+  border: 1px solid #4c4c4c;
+  border-radius: 5%;
+  color: white;
+  height: 30px;
 }
 
 .sprite {
-	background-image: url(../resources/mintlogos.png);
-	background-repeat: no-repeat;
+  background-image: url(../resources/mintlogos.png);
+  background-repeat: no-repeat;
 }
 
 .mintlogo {
-	background-position: 0 0;
-	display: inline-block;
-	height: 32px;
-	width: 114px;
+  background-position: 0 0;
+  display: inline-block;
+  height: 32px;
+  width: 114px;
 }
 
 .justmint {
-	background-position: -252px -55px;
-	display: inline-block;
-	height: 26px;
-	width: 26px;
+  background-position: -252px -55px;
+  display: inline-block;
+  height: 26px;
+  width: 26px;
 }
 
 .quickbooks {
-	background-position: -114px -56px;
-	display: inline-block;
-	height: 24px;
-	width: 24px;
+  background-position: -114px -56px;
+  display: inline-block;
+  height: 24px;
+  width: 24px;
 }
 
 .turbotax {
-	background-position: 0 -56px;
-	display: inline-block;
-	height: 24px;
-	width: 23px;
+  background-position: 0 -56px;
+  display: inline-block;
+  height: 24px;
+  width: 23px;
 }
 
 .minttext {
-	background-position: -280px -60px;
-	display: inline-block;
-	height: 16px;
-	width: 40px;
+  background-position: -280px -60px;
+  display: inline-block;
+  height: 16px;
+  width: 40px;
 }
 
 .quickbookstext {
-	background-position: -142px -57px;
-	display: inline-block;
-	height: 22px;
-	width: 101px;
+  background-position: -142px -57px;
+  display: inline-block;
+  height: 22px;
+  width: 101px;
 }
 
 .turbotaxtext {
-	background-position: -26px -57px;
-	display: inline-block;
-	height: 19px;
-	width: 76px;
+  background-position: -26px -57px;
+  display: inline-block;
+  height: 19px;
+  width: 76px;
 }
 
 .borded-container {
-	background: white;
-	border: 1px lightgray solid;
-	margin: auto;
+  background: white;
+  border: 1px lightgray solid;
+  margin: auto;
 }
 
 .top-part1 {
-	margin: 0 auto;
-	margin-bottom: 15px;
-	width: 114px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  width: 114px;
 }
 
 body {
-	background-color: #eceef1;
-	font-family: Arial, Helvetica, sans-serif;
+  background-color: #eceef1;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .container-logos {
-	margin: 0 auto;
-	margin-bottom: 15px;
-	width: 315px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  width: 315px;
 }
 
 .topsection {
-	text-align: center;
+  text-align: center;
 }
 
 .hotbox {
-	text-align: center;
+  text-align: center;
 }
 
 .footerclass {
-	margin: auto;
-	text-align: center;
+  margin: auto;
+  text-align: center;
 }
 
 .footerclass p {
-	margin-top: 0;
+  margin-top: 0;
 }
 
 .footerclass span {
-	margin-left: 5px;
-	margin-right: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 footer {
-	font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial sans-serif;
-	font-size: 12px;
+  font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial sans-serif;
+  font-size: 12px;
 }
 
 form {
-	margin: 0 auto;
-	width: 320px;
+  margin: 0 auto;
+  width: 320px;
 }
 
 .f-input {
-	height: 30px;
-	margin-bottom: 30px;
-	margin-top: 15px;
-	width: 320px;
+  height: 30px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  width: 320px;
 }
 
 .f-input-nop {
-	height: 30px;
-	margin-top: 15px;
-	width: 320px;
+  height: 30px;
+  margin-top: 15px;
+  width: 320px;
 }
 
 form button {
-	background-color: blue;
-	border-radius: 5px;
-	color: white;
-	height: 50px;
-	width: 324px;
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+  height: 50px;
+  width: 324px;
 }
 
 h2 {
-	color: gray;
-	font-weight: normal;
+  color: gray;
+  font-weight: normal;
 }
 
 .topsection p {
-	margin: 0;
+  margin: 0;
 }
 
 .topsection a {
-	font-size: 12px;
+  font-size: 12px;
 }
 
 form p {
-	font-size: 12px;
-	margin-bottom: 30px;
-	margin-top: 0;
+  font-size: 12px;
+  margin-bottom: 30px;
+  margin-top: 0;
 }
 
 .borded-container div p {
-	color: gray;
-	font-size: 10px;
-	line-height: 20px;
-	text-align: center;
+  color: gray;
+  font-size: 10px;
+  line-height: 20px;
+  text-align: center;
 }
 
 .looseline {
-	font-size: 10px;
-	text-align: left;
+  font-size: 10px;
+  text-align: left;
 }
