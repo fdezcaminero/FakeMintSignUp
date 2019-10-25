@@ -164,6 +164,8 @@ form button {
     width: 324px;
     background-color: blue;
     color: white;
+    height: 50px;
+    border-radius: 5px;
 }
 
 h2{
@@ -184,4 +186,15 @@ form p {
     margin-top: 0;
     margin-bottom: 30px;
 
+}
+
+.borded-container div p {
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+    color: gray;
+}
+
+#form-p {
+    text-align: left ;
 }
