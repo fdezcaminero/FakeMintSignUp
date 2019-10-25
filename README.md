@@ -4,22 +4,13 @@
 
 <br />
 <p align="center">
-  <a href="">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
-
+  
   <h3 align="center">2nd Project. HTML & CSS3 Course. Clone Mint Sign-Up</h3>
 
   <p align="center">
 
-<br>
-    <a href=""><strong>Explore the docs »</strong></a>
-<br>
 <br> 
-    <a href="">View Demo</a>
-<br> 
-    <a href="">Request Feature</a>
-  </p>
+</p>
 
 
 
@@ -48,5 +39,5 @@ No licenses required as project was developed in educational eviroment.
 
 (in alphabetical order):
 
-José Fernández-Caminero: fdezcaminero@gmail.com
+José Fernández-Caminero: fdezcaminero@gmail.com <br>
 Rey David Cuevas Vela: cuevas.vela@gmail.com
