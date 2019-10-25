@@ -1,4 +1,4 @@
-#signinbutton {
+.signinbutton {
     float: right;
     margin-top: 0;
 }
@@ -29,7 +29,7 @@
     padding: 80px;
 }
 
-#signin-btn {
+.signin-btn {
     
     height: 30px;
     background: #0077C5;
@@ -43,49 +43,49 @@
     background-repeat: no-repeat;
 }
 
-#mintlogo {
+.mintlogo {
     width: 114px;
     height: 32px;
     background-position: 0 0;
     display: inline-block;
 }
 
-#justmint {
+.justmint {
     width: 26px;
     height: 26px;
     background-position: -252px -55px;
     display: inline-block;
 }
 
-#quickbooks {
+.quickbooks {
     width: 24px;
     height: 24px;
     background-position: -114px -56px;
     display: inline-block;
 }
 
-#turbotax {
+.turbotax {
     width: 23px;
     height: 24px;
     background-position: 0 -56px;
     display: inline-block;
 }
 
-#minttext {
+.minttext {
     width: 40px;
     height: 16px;
     background-position: -280px -60px;
     display: inline-block;
 }
 
-#quickbookstext {
+.quickbookstext {
     width: 101px;
     height: 22px;
     background-position: -142px -57px;
     display: inline-block;
 }
 
-#turbotaxtext {
+.turbotaxtext {
     width: 76px;
     height: 19px;
     background-position: -26px -57px;
@@ -195,6 +195,7 @@ form p {
     color: gray;
 }
 
-#form-p {
-    text-align: left ;
+.looseline {
+    text-align: left;
+    font-size: 10px;
 }
