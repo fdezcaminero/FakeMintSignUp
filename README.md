@@ -2,16 +2,9 @@
 
 <h2 align="center">Fake mint.com sign-up page</h2>
 
-<br />
-<p align="center">
-  
-  <h3 align="center">2nd Project. HTML & CSS3 Course. Clone Mint Sign-Up</h3>
-
-  <p align="center">
+<h3 align="center">2nd Project. HTML & CSS3 Course. Clone Mint Sign-Up</h3>
 
 <br> 
-</p>
-
 
 
 ## Table of Contents
