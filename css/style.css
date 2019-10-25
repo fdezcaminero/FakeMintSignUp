@@ -123,10 +123,10 @@ body {
 }
 
 form p {
-	font-size: 12px;
-	margin-bottom: 30px;
-	margin-top: 0;
-  }
+  font-size: 12px;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
 
 .footerclass {
   margin: auto;
@@ -143,7 +143,7 @@ form p {
 }
 
 footer {
-  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
 
