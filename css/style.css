@@ -3,7 +3,7 @@
   margin-top: 0;
 }
 
-.row:after {
+.row::after {
   clear: both;
   content: "";
   display: table;
@@ -20,7 +20,7 @@
 }
 
 .container-logos div {
- display: inline-block;
+  display: inline-block;
 }
 
 .main-container {
@@ -122,6 +122,12 @@ body {
   text-align: center;
 }
 
+form p {
+	font-size: 12px;
+	margin-bottom: 30px;
+	margin-top: 0;
+  }
+
 .footerclass {
   margin: auto;
   text-align: center;
@@ -137,7 +143,7 @@ body {
 }
 
 footer {
-  font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial sans-serif;
+  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
   font-size: 12px;
 }
 
@@ -178,12 +184,6 @@ h2 {
 
 .topsection a {
   font-size: 12px;
-}
-
-form p {
-  font-size: 12px;
-  margin-bottom: 30px;
-  margin-top: 0;
 }
 
 .borded-container div p {
